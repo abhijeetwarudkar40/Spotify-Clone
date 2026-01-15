@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "http://192.168.1.3:3000/songs/index.html",
+            "request": "launch",
+            "url": "http://192.168.1.3:3000/songs/index.html"
+        }
+    ]
+}
